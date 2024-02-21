@@ -1,0 +1,6 @@
+streamlit
+gdown
+transformers
+tensorflow
+torch
+sentencepiece
